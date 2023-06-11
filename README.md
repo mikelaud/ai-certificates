@@ -1,7 +1,7 @@
 # ai-certificates
 
 1. [AI For Everyone](https://www.coursera.org/account/accomplishments/certificate/DHVN6SLNMC7Z)
-2. Machine Learning
+2. [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/Y6LFYDXVYJAR)
    * [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/JHVWDAB2G8D6)
    * [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/certificate/6NDX7F8RX8BK)
    * [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/G8ASAV7GLLZN)
